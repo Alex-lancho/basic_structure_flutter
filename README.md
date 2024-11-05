@@ -1,3 +1,6 @@
 # structure_basics
+![alt text](image.png)
+![alt text](image-1.png)
 
-A new Flutter project.
+mode to theme
+![alt text](image-2.png)
